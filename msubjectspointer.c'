@@ -1,0 +1,8 @@
+// Read and Print names, m subject names and marks of n students using pointer
+
+#include <stdio.h>
+
+void main()
+{
+    
+}
